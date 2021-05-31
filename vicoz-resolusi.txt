@@ -2,5 +2,5 @@ Vicoz Resolusi
 - Konsisten Belajar 
 - Membuat Aplikasi Web Toko Online
 - Belajar Flutter
-- Membuat Smart Loundry
 - Kolaborasi
+- Membuat Vlog

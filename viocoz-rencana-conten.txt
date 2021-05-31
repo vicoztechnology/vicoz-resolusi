@@ -1,5 +1,7 @@
 RENCANA KONTENT VICOZ
 
 - Javascript
+  * ES6
+  * Framework Java Script
 - Interview
 - Vlog
